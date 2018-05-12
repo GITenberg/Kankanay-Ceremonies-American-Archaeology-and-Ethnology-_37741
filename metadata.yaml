@@ -1,0 +1,31 @@
+_repo: Kankanay-Ceremonies-American-Archaeology-and-Ethnology-_37741
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moss, C. R. (Claude Russell)
+    alias: Moss, Claude Russell
+    birthdate: 1876
+    gutenberg_agent_id: '39024'
+    url: http://www.gutenberg.org/2009/agents/39024
+description: ''
+gutenberg_issued: '2011-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37741'
+  lccn: a20001383
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kankanay language -- Texts'
+- !lcc 'DS'
+- !lcsh 'Rites and ceremonies -- Philippines'
+- !lcsh 'Igorot (Philippine people)'
+title: 'Kankanay Ceremonies
+
+  (American Archaeology and Ethnology)'
+url: http://www.gutenberg.org/ebooks/37741
